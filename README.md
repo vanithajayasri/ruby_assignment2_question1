@@ -1,6 +1,6 @@
 # Instructions
 
-Hey There! Welcome to homework 2 of the Rails Decal. This week we'll have covered routes (more in depth), simple ruby syntax, and basic CRUD statements.
+Hey There! Welcome to homework 2 of the SWE610 Ruby on Rails Class. This week we'll have covered routes (more in depth), simple ruby syntax, and basic CRUD statements.
 
 Between each change you should refresh your browser to observe changes.  If that doesn't work try restarting the server.
 
@@ -12,7 +12,7 @@ Fork the repository to your own!
 
 Run this command to clone this repository <b>after you fork:</b>
 ```
-git clone https://github.com/your_username/sp16-hw2
+git clone https://github.com/your_username/swe610hw021
 ```
 
 Afterwards, change directory into the folder and run
@@ -81,4 +81,4 @@ You're done! Whew. Time to submit!
   git commit -am "whatever message you want"
   git push origin master
   ```
-  Create a new repository in your Github account called hw2-sp16.  Follow the instructions on how to push up an existing repository then submit the link [here](http://www.railsdecal.com/assignments/7)
+  Create a new repository in your Github account called hw2-sp16.  Follow the instructions on how to push up an existing repository then submit the link through EMS. Please write a short paper 2-3 pages on steps you followed to complete this assignment 2 Q1.
